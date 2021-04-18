@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270879375120",
+    "firebase_url": "https://quik-baskt-default-rtdb.firebaseio.com",
+    "project_id": "quik-baskt",
+    "storage_bucket": "quik-baskt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270879375120:android:9df7c2963a8519df166f95",
+        "android_client_info": {
+          "package_name": "com.quik.baskt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270879375120-6vbg4kt4jo39dfr899d0q4eud67me1rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAIMtbgbVjtygQMiSSkL2E-DFlvOq0Mao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270879375120-6vbg4kt4jo39dfr899d0q4eud67me1rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
